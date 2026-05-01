@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently a BS AI student <br>I already lear about HTML CSS and C++<br>Now im learning about python whose basics are done
-
+🚀 BS Artificial Intelligence student passionate about building intelligent systems and solving real-world problems.  
+💻 Skilled in Python, C++, HTML, and CSS, with a growing focus on AI & Machine Learning.  
+📈 Continuously learning, building, and improving to become a professional AI Engineer.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EWcCrG6JZ/)
